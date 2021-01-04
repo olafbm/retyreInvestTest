@@ -1,0 +1,162 @@
+$(document).ready(function () {
+	const overlayWrap = document.querySelector(".right-wrap ");
+	const heroBgImg = document.querySelector(".hero .hero-bg");
+	function handleBgImgHeight(params) {
+		let overlayHeight = overlayWrap.clientHeight;
+		heroBgImg.style.minHeight = `${overlayHeight}px`;
+	}
+	handleBgImgHeight();
+	function handleResize(params) {
+		handleBgImgHeight();
+	}
+
+	//scroll to
+	function scrollToElement(selector, target) {
+		$(selector).click(function () {
+			$([document.documentElement, document.body]).animate(
+				{
+					scrollTop: $(target).offset().top,
+				},
+				200
+			);
+		});
+	}
+
+	scrollToElement(".scroll-down", ".first-section");
+
+	//menu hamburger
+
+	const menuBtn = document.querySelector(".menu-mobile button");
+	const navLinks = document.querySelector("ul.nav");
+	menuBtn.addEventListener("click", function (params) {
+		navLinks.classList.toggle("open");
+	});
+	//scroll to section
+	const landingTabs = document.querySelectorAll("header .nav-item a");
+	landingTabs.forEach((tab) =>
+		tab.addEventListener("click", function name(params) {
+			$([document.documentElement, document.body]).animate(
+				{
+					scrollTop: $(tab.hash).offset().top,
+				},
+				1000
+			);
+		})
+	);
+
+	window.addEventListener("resize", handleResize);
+
+	//slider
+	//swiper sliders
+	var swiperTeam = new Swiper(".swiper-team", {
+		autoHeight: false,
+		slidesPerView: 1,
+		loop: true,
+		spaceBetween: 20,
+		pagination: {
+			el: ".team-pagination",
+			clickable: true,
+		},
+		navigation: {
+			nextEl: ".swiper-button-next.team-buttons",
+			prevEl: ".swiper-button-prev.team-buttons",
+		},
+		breakpoints: {
+			420: {
+				slidesPerView: 2,
+			},
+			768: {
+				slidesPerView: 3,
+			},
+			992: {
+				slidesPerView: 4,
+			},
+			1200: {
+				slidesPerView: 5,
+			},
+		},
+	});
+
+	//vertical
+	var timelineSwiper = new Swiper(".swiper-vertical", {
+		direction: "horizontal",
+		loop: false,
+		speed: 1600,
+		pagination: {
+			el: ".vertical-pagination",
+			clickable: true,
+			renderBullet: function (index, className) {
+				var year = document
+					.querySelectorAll(".swiper-slide")
+					[index].getAttribute("data-year");
+				return '<span class="' + className + '">' + year + "</span>";
+			},
+		},
+		navigation: {
+			nextEl: ".vertical-next",
+			prevEl: ".vertical-prev",
+		},
+
+		breakpoints: {
+			768: {
+				direction: "vertical",
+			},
+		},
+	});
+
+	//second timeline
+	var timelineSecondSwiper = new Swiper(".swiper-second-vertical", {
+		direction: "horizontal",
+		loop: false,
+		speed: 1600,
+		pagination: {
+			el: ".vertical-second-pagination",
+			clickable: true,
+			renderBullet: function (index, className) {
+				var year = document
+					.querySelectorAll(" .swiper-second-vertical .swiper-slide")
+					[index].getAttribute("data-year");
+				return '<span class="' + className + '">' + year + "</span>";
+			},
+		},
+		navigation: {
+			nextEl: ".vertical-second-next",
+			prevEl: ".vertical-second-prev",
+		},
+
+		breakpoints: {
+			768: {
+				direction: "vertical",
+			},
+		},
+	});
+
+	//grey half layout
+
+	//accordion
+	function dropdownAccordion(selector, customClass) {
+		$(selector).click(function (e) {
+			if (!$(this).next().hasClass(customClass)) {
+				e.preventDefault();
+				$(selector).prev().removeClass("active");
+
+				$(selector).each((i, item) =>
+					item.classList.remove("rotate-icon")
+				);
+				$(this).addClass("rotate-icon");
+
+				$(selector).next().removeClass(customClass);
+				$(selector).next().slideUp();
+				$(this).prev().addClass("active");
+				$(this).next().slideDown();
+				$(this).next().toggleClass(customClass);
+			} else {
+				$(selector).next().slideUp();
+				$(this).prev().removeClass("active");
+				$(this).next().removeClass(customClass);
+				$(selector).removeClass("rotate-icon");
+			}
+		});
+	}
+	dropdownAccordion("#business .nav-item span", "dropdown-accordion");
+});
