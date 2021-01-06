@@ -1,5 +1,5 @@
+window.onload = function onLoad() {
 
-function myFunction(bar) {
 var bar = new ProgressBar.Line(container3,  {
     
     strokeWidth: 1,
@@ -52,8 +52,8 @@ bar.setText('34');
 
   
  
-
-
+}
+function myFunction(bar) {
     
     bar.animate(0.5);
   }
