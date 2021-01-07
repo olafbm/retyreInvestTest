@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 409.8 269.71">
+    <defs>
+        <style>.cls-1,.cls-2{fill:none;}.cls-1{stroke:#25a5de;stroke-miterlimit:10;stroke-width:2px;}.cls-3{fill:#4e7fff;}.cls-4{clip-path:url(#clip-path);}.cls-5{clip-path:url(#clip-path-2);}.cls-6{clip-path:url(#clip-path-3);}.cls-7{clip-path:url(#clip-path-4);}.cls-8{clip-path:url(#clip-path-5);}.cls-9{clip-path:url(#clip-path-6);}.cls-10{fill:#25a5de;}.cls-11{fill:#454544;}.cls-12{font-size:17.84px;font-family:Montserrat-ExtraBold, Montserrat;font-weight:800;}.cls-12,.cls-17{fill:#fff;}.cls-13{letter-spacing:0em;}.cls-14{letter-spacing:-0.05em;}.cls-15{letter-spacing:0.01em;}.cls-16{letter-spacing:-0.01em;}.cls-17{font-size:13.38px;font-family:Roboto-Regular, Roboto;}.cls-18{letter-spacing:-0.01em;}.cls-19{letter-spacing:-0.01em;}.cls-20{letter-spacing:0em;}.cls-21{letter-spacing:-0.01em;}</style>
+        <clipPath id="clip-path">
+            <rect id="SVGID" class="cls-1" x="304.42" y="33.64" width="44.09" height="44.09" rx="22.04" />
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <rect id="SVGID-2" data-name="SVGID" class="cls-2" x="296.39" y="31.36" width="56.15" height="84.23" />
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <rect id="SVGID-3" data-name="SVGID" class="cls-1" x="349.61" y="65.7" width="44.09" height="44.09" rx="22.04" />
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <rect id="SVGID-4" data-name="SVGID" class="cls-3" x="349.35" y="65.44" width="44.6" height="44.6" />
+        </clipPath>
+        <clipPath id="clip-path-5">
+            <rect id="SVGID-5" data-name="SVGID" class="cls-1" x="364.71" y="121.53" width="44.09" height="44.09" rx="22.04" />
+        </clipPath>
+        <clipPath id="clip-path-6">
+            <rect id="SVGID-6" data-name="SVGID" class="cls-2" x="363.99" y="118.22" width="45.38" height="50.82" />
+        </clipPath>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <g class="cls-4">
+                <g class="cls-5">
+                    <image width="288" height="432" transform="translate(296.39 31.36) scale(0.19)" xlink:href="sharholder1.png" />
+                </g>
+            </g>
+            <rect id="SVGID-7" data-name="SVGID" class="cls-1" x="304.42" y="33.64" width="44.09" height="44.09" rx="22.04" />
+            <g class="cls-6">
+                <rect id="SVGID-8" data-name="SVGID" class="cls-3" x="349.35" y="65.44" width="44.6" height="44.6" />
+                <g class="cls-7">
+                    <image width="229" height="229" transform="translate(349.79 65.68) scale(0.19)" xlink:href="sharholder2.png" />
+                </g>
+            </g>
+            <rect id="SVGID-9" data-name="SVGID" class="cls-1" x="349.61" y="65.7" width="44.09" height="44.09" rx="22.04" />
+            <g class="cls-8">
+                <g class="cls-9">
+                    <image width="233" height="261" transform="translate(363.99 118.22) scale(0.19 0.19)" xlink:href="sharholder3.png" />
+                </g>
+            </g>
+            <rect id="SVGID-10" data-name="SVGID" class="cls-1" x="364.71" y="121.53" width="44.09" height="44.09" rx="22.04" />
+            <path class="cls-10" d="M233.26,55.36V159.83l-104,10.25c-.33-3.37-.5-6.78-.5-10.25A104.48,104.48,0,0,1,233.26,55.36Z" />
+            <path class="cls-11" d="M343.35,165.24a104.47,104.47,0,0,1-208.44,10.25l104-10.25V60.77a104.48,104.48,0,0,1,104,94.22Q343.35,160,343.35,165.24Z" />
+            <text class="cls-12" transform="translate(159.23 121.53)">
+                <tspan class="cls-13">2</tspan>
+                <tspan class="cls-14" x="10.67" y="0">7</tspan>
+                <tspan class="cls-15" x="21.11" y="0">.</tspan>
+                <tspan class="cls-16" x="26.34" y="0">8</tspan>
+                <tspan x="38.09" y="0">%</tspan>
+            </text>
+            <text class="cls-17" transform="translate(157 136.82)">
+                Inves
+                <tspan class="cls-18" x="31.5" y="0">t</tspan>
+                <tspan x="35.74" y="0">ors</tspan>
+            </text>
+            <text class="cls-17" transform="translate(209.96 220.38)">
+                <tspan class="cls-19">
+                    F
+                    <tspan class="cls-20" x="7.26" y="0">ounders, </tspan>
+                </tspan>
+                <tspan x="-15.79" y="16.06">employees etc.</tspan>
+            </text>
+            <text class="cls-12" transform="translate(213.35 203.69)">
+                7
+                <tspan class="cls-15" x="11.28" y="0">2</tspan>
+                <tspan x="22.14" y="0">.</tspan>
+                <tspan class="cls-21" x="27.19" y="0">5</tspan>
+                <tspan x="37.84" y="0">%</tspan>
+            </text>
+            <image width="300" height="102" transform="translate(23.18) scale(0.54)" xlink:href="./øfn_logo-300x102.png" />
+            <image width="2000" height="450" transform="translate(0 121.53) scale(0.05)" xlink:href="./Asset%202.png" />
+            <image width="1402" height="326" transform="translate(10.27 75.11) scale(0.09)" xlink:href="./logo_b.png" />
+            <circle class="cls-11" cx="386.02" cy="181.67" r="5.45" />
+            <circle class="cls-11" cx="381.95" cy="197.8" r="5.45" />
+            <circle class="cls-11" cx="374.69" cy="212.64" r="5.45" />
+        </g>
+    </g>
+</svg>
