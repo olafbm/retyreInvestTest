@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 425.97 352.69">
+    <defs>
+        <style>.cls-1{fill:none;}.cls-2{fill:#f6f7f9;}.cls-3,.cls-4{opacity:0.82;}.cls-3{fill:url(#radial-gradient);}.cls-4{fill:url(#radial-gradient-2);}.cls-5{opacity:0.92;}.cls-6{clip-path:url(#clip-path);}.cls-7{font-size:8.27px;}.cls-27,.cls-28,.cls-29,.cls-30,.cls-7{font-family:UniSansBold, Uni Sans;}.cls-8{letter-spacing:-0.01em;}.cls-9{letter-spacing:-0.01em;}.cls-10,.cls-11,.cls-12,.cls-13,.cls-21{font-family:UniSansRegular, Uni Sans;}.cls-11,.cls-14{letter-spacing:-0.02em;}.cls-12,.cls-19{letter-spacing:-0.03em;}.cls-13{letter-spacing:0em;}.cls-15{letter-spacing:-0.01em;}.cls-16{letter-spacing:-0.12em;}.cls-17{letter-spacing:-0.08em;}.cls-18{letter-spacing:-0.01em;}.cls-20{letter-spacing:-0.04em;}.cls-21{font-size:8.81px;}.cls-22{letter-spacing:-0.01em;}.cls-23{letter-spacing:-0.01em;}.cls-24{letter-spacing:-0.02em;}.cls-25{letter-spacing:-0.02em;}.cls-26{fill:#163c51;}.cls-27{font-size:22.29px;}.cls-27,.cls-29{fill:#fff;}.cls-28{font-size:9.8px;}.cls-28,.cls-30{fill:#00a7e1;}.cls-29{font-size:24.26px;}.cls-30{font-size:10.67px;}</style>
+        <radialGradient id="radial-gradient" cx="108.08" cy="280.57" r="77.38" gradientTransform="translate(27.8 259.38) scale(0.74 0.08)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#163c51" stop-opacity="0.6" />
+            <stop offset="0.25" stop-color="#163c51" stop-opacity="0.38" />
+            <stop offset="0.64" stop-color="#163c51" stop-opacity="0.1" />
+            <stop offset="0.89" stop-color="#163c51" stop-opacity="0" />
+        </radialGradient>
+        <radialGradient id="radial-gradient-2" cx="384.03" cy="196.76" r="77.38" gradientTransform="translate(27.8 211.28) scale(0.74 0.08)" xlink:href="#radial-gradient" />
+        <clipPath id="clip-path" transform="translate(0.31 0.17)">
+            <polygon class="cls-1" points="425.51 168.12 0 268.72 0 0 424.62 0 425.51 168.12" />
+        </clipPath>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <rect class="cls-2" x="0.31" y="145.39" width="425.51" height="207.3" />
+            <rect class="cls-3" x="54.24" y="273.88" width="107.77" height="14.46" />
+            <rect class="cls-4" x="259.83" y="219.14" width="107.77" height="14.46" />
+            <g class="cls-5">
+                <g class="cls-6">
+                    <g id="buddy_case">
+                        <image width="1290" height="1049" transform="scale(0.33)" xlink:href="buddycase1.png" />
+                    </g>
+                </g>
+            </g>
+            <text class="cls-7" transform="translate(257.28 245.48)">
+                G
+                <tspan class="cls-8" x="5.2" y="0">r</tspan>
+                <tspan class="cls-9" x="7.97" y="0">o</tspan>
+                <tspan x="11.98" y="0">wth in sales</tspan>
+                <tspan class="cls-10" x="51.52" y="0" xml:space="preserve"> fo</tspan>
+                <tspan class="cls-11" x="59.57" y="0">r</tspan>
+                <tspan class="cls-10" x="61.98" y="0" xml:space="preserve"> the bi</tspan>
+                <tspan class="cls-12" x="82.11" y="0">k</tspan>
+                <tspan class="cls-10" x="85.98" y="0">e b</tspan>
+                <tspan class="cls-13" x="95.98" y="0">r</tspan>
+                <tspan class="cls-10" x="98.53" y="0">and.</tspan>
+                <tspan class="cls-10">
+                    <tspan x="-14.26" y="9.93">Afte</tspan>
+                    <tspan class="cls-14" x="-0.53" y="9.93">r</tspan>
+                    <tspan x="1.88" y="9.93" xml:space="preserve"> changing to </tspan>
+                    <tspan class="cls-15" x="44.42" y="9.93">r</tspan>
+                    <tspan class="cls-16" x="46.93" y="9.93">e</tspan>
+                    <tspan class="cls-17" x="50" y="9.93">T</tspan>
+                    <tspan x="54.03" y="9.93">y</tspan>
+                    <tspan class="cls-18" x="58.44" y="9.93">r</tspan>
+                    <tspan x="60.96" y="9.93">e and mar</tspan>
+                    <tspan class="cls-19" x="94.22" y="9.93">k</tspan>
+                    <tspan x="98.08" y="9.93">eting the </tspan>
+                    <tspan x="8.78" y="19.86">bi</tspan>
+                    <tspan class="cls-19" x="14.73" y="19.86">k</tspan>
+                    <tspan x="18.6" y="19.86">e as a yea</tspan>
+                    <tspan class="cls-20" x="52.07" y="19.86">r</tspan>
+                    <tspan x="54.32" y="19.86">-</tspan>
+                    <tspan class="cls-15" x="57.44" y="19.86">r</tspan>
+                    <tspan x="59.96" y="19.86" xml:space="preserve">ound-bicycle  </tspan>
+                </tspan>
+            </text>
+            <text class="cls-21" transform="translate(58.65 300.76)">
+                Reco
+                <tspan class="cls-22" x="18.21" y="0">r</tspan>
+                <tspan x="20.87" y="0">ded inc</tspan>
+                <tspan class="cls-23" x="46.52" y="0">r</tspan>
+                <tspan x="49.2" y="0">ease in bicycle </tspan>
+                <tspan x="3.07" y="10.58">sales during</tspan>
+                <tspan class="cls-24" x="46.17" y="10.58"></tspan>
+                <tspan x="47.83" y="10.58">winte</tspan>
+                <tspan class="cls-25" x="67.33" y="10.58">r</tspan>
+                <tspan x="69.9" y="10.58" xml:space="preserve"> months</tspan>
+            </text>
+            <circle class="cls-26" cx="315.11" cy="185.88" r="40.49" />
+            <text class="cls-27" transform="translate(290.04 191.07)">355%</text>
+            <text class="cls-28" transform="translate(300.42 203.26)">Growth</text>
+            <circle class="cls-26" cx="109.53" cy="237.22" r="44.08" />
+            <text class="cls-29" transform="translate(83.76 241.32)">133%</text>
+            <text class="cls-30" transform="translate(92.19 254.59)">Increase</text>
+            <image width="1500" height="528" transform="translate(296.72 293.23) scale(0.06)" xlink:href="../Logos/buddy.png" />
+        </g>
+    </g>
+</svg>

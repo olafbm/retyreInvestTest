@@ -10,6 +10,13 @@
     --grey-bg: #f6f7f9
 }
 
+.iframecontainer{
+    height: 1000px;
+    padding-top: -200px;
+    overflow: hidden;
+
+
+}
 .icon_text{
 color:white;
 
