@@ -3,6 +3,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500&display=swap');
 
 
+
+@font-face {
+   font-family: "UniSansRegular";
+  
+   src: url('/Fonts/3268AE_2_0.eot') format("embedded-opentype"),
+        url('/Fonts/3268AE_2_0.woff') format("woff"),
+        url('/Fonts/3268AE_2_0.woff2') format("woff2"),
+        url('/Fonts/3268AE_2_0.ttf') format("truetype");
+       
+ }
+ 
+ @font-face {
+   font-family: "UniSansBold";
+ 
+   src: url('/Fonts/3268AE_3_0.eot') format("embedded-opentype"),
+        url('/Fonts/3268AE_3_0.woff') format("woff"),
+        url('/Fonts/3268AE_3_0.woff2') format("woff2"),
+        url('/Fonts/3268AE_3_0.ttf') format("truetype");
+       
+ }
+
+
+
 :root {
     --color-accent: #00a7e1;
     --text-primary: #000;
