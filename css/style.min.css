@@ -4,25 +4,6 @@
 
 
 
-@font-face {
-   font-family: "UniSansRegular";
-  
-   src: url('/Fonts/3268AE_2_0.eot') format("embedded-opentype"),
-        url('/Fonts/3268AE_2_0.woff') format("woff"),
-        url('/Fonts/3268AE_2_0.woff2') format("woff2"),
-        url('/Fonts/3268AE_2_0.ttf') format("truetype");
-       
- }
- 
- @font-face {
-   font-family: "UniSansBold";
- 
-   src: url('/Fonts/3268AE_3_0.eot') format("embedded-opentype"),
-        url('/Fonts/3268AE_3_0.woff') format("woff"),
-        url('/Fonts/3268AE_3_0.woff2') format("woff2"),
-        url('/Fonts/3268AE_3_0.ttf') format("truetype");
-       
- }
 
 
 
